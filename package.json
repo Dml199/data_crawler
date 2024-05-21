@@ -1,0 +1,17 @@
+{
+  "name": "data_crawler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "crawler.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies":
+  {"puppeteer": {
+    "chromium_revision": "536395"
+  }},
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
